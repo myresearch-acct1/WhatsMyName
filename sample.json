@@ -18,9 +18,10 @@
        "account_missing_string" : "Oops! No such user.",
        "account_missing_code" : "404",
        "known_accounts" : ["john", "maria"],
-       "category" : "social",
+       "category" : "social"
        "valid" : true
      },
+    }
      {
        "name" : "test site name",
        "check_uri" : "https://test.com/{account}/",
